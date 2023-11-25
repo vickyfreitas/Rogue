@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Ä©½
+i
+java:S1450"SRemove the "hero" field and declare it as a local variable in the relevant methods.(‡ø‚Ş
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ßñŠ®
+4
+java:S2119("Save and re-use this "Random".(—ûî²
+4
+java:S2119,"Save and re-use this "Random".(ê™èÊ
+>
+java:S1068"(Remove this unused "room" private field.(ÑğæÔ
+A
+java:S1068",Remove this unused "gameOver" private field.(ÉÃ¦6

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f409e310-38d4-47a1-8bba-48a3a2b42e6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="1jTu9goc6jnCfNu5DXWtIY76VLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20231125_0002",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vitor/Documents/UpSkill/Módulo 1/Aulas/Projeto 1/Projeto Rogue Final/Rogue_Final_ version",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pt.upskill.projeto1.status" />
+      <recent name="pt.upskill.projeto1.objects" />
+      <recent name="pt.upskill.projeto1.game" />
+      <recent name="pt.upskill.projeto1.gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Engine">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Engine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.upskill.projeto1.game.Engine" />
+      <module name="Rogue_UPskill2023_v1_Nome_Completo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.upskill.projeto1.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Engine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.upskill.projeto1.game.Engine" />
+      <module name="Rogue_UPskill2023_v1_Nome_Completo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.upskill.projeto1.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rogue_UPskill2023_v1_Nome_Completo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.upskill.projeto1.rogue.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.upskill.projeto1.rogue.tests" />
+      <option name="MAIN_CLASS_NAME" value="pt.upskill.projeto1.rogue.tests.DirectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectionTest.testAsVector" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rogue_UPskill2023_v1_Nome_Completo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.upskill.projeto1.rogue.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.upskill.projeto1.rogue.tests" />
+      <option name="MAIN_CLASS_NAME" value="pt.upskill.projeto1.rogue.tests.DirectionTest" />
+      <option name="METHOD_NAME" value="testAsVector" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rogue_UPskill2023_v1_Nome_Completo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.upskill.projeto1.rogue.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.upskill.projeto1.rogue.tests" />
+      <option name="MAIN_CLASS_NAME" value="pt.upskill.projeto1.rogue.tests.Vector2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Engine" />
+        <item itemvalue="Application.Engine (1)" />
+        <item itemvalue="JUnit.DirectionTest" />
+        <item itemvalue="JUnit.DirectionTest.testAsVector" />
+        <item itemvalue="JUnit.Vector2DTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f409e310-38d4-47a1-8bba-48a3a2b42e6f" name="Default Changelist" comment="" />
+      <created>1603840252804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603840252804</updated>
+      <workItem from="1603840255633" duration="303000" />
+      <workItem from="1603979715302" duration="5126000" />
+      <workItem from="1604355161849" duration="715000" />
+      <workItem from="1673260758451" duration="112000" />
+      <workItem from="1684861834563" duration="7811000" />
+      <workItem from="1684872670249" duration="7325000" />
+      <workItem from="1684880442185" duration="8239000" />
+      <workItem from="1684921358982" duration="3226000" />
+      <workItem from="1684926648734" duration="283000" />
+      <workItem from="1684932666192" duration="6249000" />
+      <workItem from="1684939291846" duration="4186000" />
+      <workItem from="1684959116255" duration="15299000" />
+      <workItem from="1685009409637" duration="953000" />
+      <workItem from="1685033805721" duration="510000" />
+      <workItem from="1685034443223" duration="259000" />
+      <workItem from="1685054456607" duration="316000" />
+      <workItem from="1685054849663" duration="140000" />
+      <workItem from="1685092700208" duration="2133000" />
+      <workItem from="1685106489740" duration="15000" />
+      <workItem from="1685124403880" duration="800000" />
+      <workItem from="1685135272051" duration="12036000" />
+      <workItem from="1685224072015" duration="30000" />
+      <workItem from="1685271395631" duration="68000" />
+      <workItem from="1685276767662" duration="6344000" />
+      <workItem from="1685364254260" duration="11946000" />
+      <workItem from="1685542033465" duration="669000" />
+      <workItem from="1685551607533" duration="1260000" />
+      <workItem from="1685624400878" duration="649000" />
+      <workItem from="1690553097976" duration="1950000" />
+      <workItem from="1690975297522" duration="30000" />
+      <workItem from="1690975451920" duration="290000" />
+      <workItem from="1690977748457" duration="9000" />
+      <workItem from="1691149964816" duration="94000" />
+      <workItem from="1691150068250" duration="89000" />
+      <workItem from="1691150238126" duration="510000" />
+      <workItem from="1691151223780" duration="29000" />
+      <workItem from="1700913772530" duration="675000" />
+      <workItem from="1700914517978" duration="3060000" />
+      <workItem from="1700917619562" duration="2400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
