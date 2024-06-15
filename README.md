@@ -1,6 +1,9 @@
 # Rogue
 Welcome to my RogueLike Quest Game, an immersive dungeon exploration game allows players to navigate through perilous chambers, combat formidable adversaries, and gather magical items. The project is currently under development and utilizes Object-Oriented Programming principles for modularity and easy expansion.
 
+# Demo
+![](https://github.com/vickyfreitas/Rogue/blob/master/Rogue_Gif.gif)
+
 ## Installation
 To play this game, ensure that Java is installed on your system.
 
